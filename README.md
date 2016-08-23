@@ -6,7 +6,7 @@ Supports all languages and the deepest page structure fork allows
 
 ## Todo
 
-* Blog 
+* Blog (Works, could be better)
 * Many Widgets
 * Sitemap
 
