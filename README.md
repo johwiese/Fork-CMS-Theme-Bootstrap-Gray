@@ -12,4 +12,4 @@ Supports all languages and the deepest page structure fork allows
 
 ## Installation
 
-Get the latest release at https://github.com/keksmampfer/Fork-CMS-Theme-Bootstrap-Gray/releases and extract the `Bootstrap-Gray` folder into `\src\Frontend\Themes`. Select install at your Fork-CMS backend.
+Get the latest release at https://github.com/keksmampfer/Fork-CMS-Theme-Bootstrap-Gray/releases and upload it at the backend or extract the `Bootstrap-Gray` folder into `\src\Frontend\Themes`.
