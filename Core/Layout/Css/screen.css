@@ -48,6 +48,7 @@ img#flag {
 header.jumbotron {
     margin-bottom: 5px;
 }
+
 .subnav {
     float: left;
     min-width: 100px;
@@ -67,9 +68,7 @@ align-items: center;
     background-color: aqua;
 }
 
-#header {
-    position: relative;
-}
+
 
 #navbrand {
     cursor: pointer;
@@ -80,8 +79,17 @@ align-items: center;
     padding-top: 5px;
 }
 
+#cookieBar {
+    background-color: white;
+    border: 1px solid gray;
+}
+
 @media (min-width: 768px) {
         #navbrand {
         display: none;
     }
+}
+
+#innerheader {
+    position: relative;
 }
